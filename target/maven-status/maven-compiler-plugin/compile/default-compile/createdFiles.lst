@@ -1,0 +1,14 @@
+PageObjectModel\UserAdvertisementsListPage.class
+PageObjectModel\AdvertisementPage.class
+TestDate\Credentials.class
+PageObjectModel\AdvertisementResult.class
+TestDate\AdvertisementOptions.class
+PageObjectModel\UserAccountPage.class
+PageObjectModel\UserSettingsPage.class
+PageObjectModel\OLXMainPage.class
+PageObjectModel\UpperBar.class
+Interfaces\IUserSettingsPage.class
+PageObjectModel\WebPage.class
+PageObjectModel\AllCategoriesPopUpWindow.class
+PageObjectModel\LoginPage.class
+PageObjectModel\Browser.class

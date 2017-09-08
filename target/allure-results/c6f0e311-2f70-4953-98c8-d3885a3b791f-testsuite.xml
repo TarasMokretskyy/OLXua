@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1504867999984" stop="1504868034725" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : OLXua</name>
+    <title>Default Suite : OLXua</title>
+    <test-cases>
+        <test-case start="1504868010123" stop="1504868027097" status="passed">
+            <name>isUserAbleToCreateAdvertisementTest</name>
+            <steps>
+                <step start="1504868000176" stop="1504868006386" status="passed">
+                    <name>createBrowserInstance</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1504868006386" stop="1504868010106" status="passed">
+                    <name>getOLXMainPage</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1504868010123" stop="1504868011989" status="passed">
+                    <name>getLoginPage</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1504868011990" stop="1504868015303" status="passed">
+                    <name>loginIntoTheSystem</name>
+                    <attachments/>
+                    <steps>
+                        <step start="1504868012003" stop="1504868012265" status="passed">
+                            <name>enterText[[[ChromeDriver: chrome on XP (5594d172279283ea6a02daaf77d53d92)] -&gt; id: userEmail], taras.mokretsky@gmail.com]</name>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1504868012292" stop="1504868012501" status="passed">
+                            <name>enterText[[[ChromeDriver: chrome on XP (5594d172279283ea6a02daaf77d53d92)] -&gt; id: userPass], zam6416taras21&amp;]</name>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start="1504868015521" stop="1504868027095" status="passed">
+                    <name>addNewAdvertisement</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="c093"/>
+                <label name="thread" value="10388@c093.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

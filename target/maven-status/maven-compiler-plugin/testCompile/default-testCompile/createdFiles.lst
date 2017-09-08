@@ -1,0 +1,4 @@
+IsUserAbleToCreateAdvertisement.class
+IsUserAbleToChangePassword.class
+IsUserAbleToDeleteOwnAccount.class
+IsUserAbleToChangeContactDetails.class
